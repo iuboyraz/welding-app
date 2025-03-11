@@ -3,5 +3,4 @@ ultralytics
 streamlit
 openpyxl
 plyer
-cv2
 opencv-python
