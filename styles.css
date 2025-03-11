@@ -1,0 +1,43 @@
+.st-emotion-cache-ue6h4q {
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    visibility: visible;
+    margin-bottom: 0.25rem;
+    height: auto;
+    min-height: 1.5rem;
+    vertical-align: middle;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.st-emotion-cache-fsammq {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 20px;
+    color: inherit;
+}
+
+.st-emotion-cache-4tlk2p {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1.1rem;
+    color: inherit;
+}
+.st-bs {
+    color: rgb(255, 0, 0);
+    font-size: 18px;
+
+}
+
+body {
+    background-color: #001f3f;
+    color: white;
+}
+.stButton>button {
+    background-color: #001f3f;
+    color: white;
+    border: 2px solid #000000; 
+}
+.stRadio>div>label {
+    color: white !important;  /* Radio buton etiketlerinin rengi beyaz */
+    font-size: 18px !important;  /* Font boyutunu büyütme */
+}

@@ -1,1 +1,7 @@
+pandas
+ultralytics
 streamlit
+openpyxl
+cv2
+plyer
+win10toast
