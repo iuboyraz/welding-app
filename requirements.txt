@@ -3,4 +3,4 @@ ultralytics
 streamlit
 openpyxl
 plyer
-opencv-python
+opencv-python-headless
