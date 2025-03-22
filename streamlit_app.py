@@ -1,3 +1,7 @@
+import os
+
+# OpenCV'nin eksik bağımlılıklarını yükleme
+os.system("apt-get update && apt-get install -y libgl1 libglib2.0-0")
 import cv2
 import streamlit as st
 from ultralytics import YOLO
