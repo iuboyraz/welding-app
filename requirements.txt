@@ -1,6 +1,6 @@
 pandas
 ultralytics
+opencv-python-headless
 streamlit
 openpyxl
 plyer
-opencv-python-headless
